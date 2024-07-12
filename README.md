@@ -7,8 +7,6 @@
 </a>
 
 - :office: &nbsp;I'm currently working **Full-time freelancer**
-- :seedling: &nbsp;I’m currently learning **Web3.0**
-- :mailbox: &nbsp;Ask me about anything
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 - :briefcase: &nbsp;Check my **[Portfolio]**
